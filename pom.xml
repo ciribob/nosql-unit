@@ -374,22 +374,15 @@
 
     <modules>
         <module>nosqlunit-core</module>
-        <module>nosqlunit-neo4j</module>
         <module>nosqlunit-demo</module>
         <module>nosqlunit-mongodb</module>
         <module>nosqlunit-documentation</module>
-        <module>nosqlunit-cassandra</module>
+  
         <module>nosqlunit-redis</module>
-        <module>nosqlunit-hbase</module>
-        <module>nosqlunit-couchdb</module>
-        <module>nosqlunit-infinispan</module>
+   
         <module>nosqlunit-elasticsearch</module>
         <module>nosqlunit-elasticsearch2</module>
-        <module>nosqlunit-couchbase</module>
-        <module>nosqlunit-vault</module>
-        <module>nosqlunit-dynamodb</module>
-        <module>nosqlunit-marklogic</module>
-        <module>nosqlunit-influxdb</module>
+      
     </modules>
 
     <build>
