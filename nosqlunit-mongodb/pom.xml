@@ -9,7 +9,7 @@
     <artifactId>nosqlunit-mongodb</artifactId>
 
     <properties>
-        <spring.data.mongodb.version>3.0.5.RELEASE</spring.data.mongodb.version>
+        <spring.data.mongodb.version>3.3.0.RELEASE</spring.data.mongodb.version>
     </properties>
 
     <dependencies>
@@ -51,13 +51,13 @@
             <groupId>org.mongodb</groupId>
             <artifactId>mongodb-driver-sync</artifactId>
             <scope>provided</scope>
-            <version>4.0.5</version>
+            <version>4.4.0</version>
         </dependency>
 
         <dependency>
             <groupId>de.flapdoodle.embed</groupId>
             <artifactId>de.flapdoodle.embed.mongo</artifactId>
-            <version>3.0.0</version>
+            <version>3.2.6</version>
         </dependency>
 
     </dependencies>
